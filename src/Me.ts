@@ -1,25 +1,25 @@
 import { contact, IUser } from './github'
 
 export default class ME implements IUser {
-    public static firstName = 'Alen'
-    public static lastName = 'Yohannan'
-    public static username = 'AlenSaito1'
-    public static aliases = ['Ban Takahiro']
-    public static skills = ['TypeScript', 'JavaScript', 'NodeJS', 'C', 'EJS', 'Express', 'NoSQL']
+    public static firstName = 'Salva'
+    public static lastName = 'Imm'
+    public static username = 'salva-imm'
+    public static aliases = ['Demon lord']
+    public static skills = ['Python', 'JavaScript', 'NodeJS', 'Rust', 'SQL', 'Postgres', 'Django', 'FastAPI']
     public static info = {
-        age: 17,
-        country: 'India',
+        age: 0,
+        country: 'Iran',
         org: 'None',
         likes: ['TypeScript', 'Zelda Series', 'JJBA Series', 'Well.....'],
-        hobbies: ['Manga', 'Shipping', 'Music'],
+        hobbies: ['Movie', 'Series', 'Anime', 'Music'],
         reach: [
             {
                 name: contact.Discord,
-                username: 'Alen#4688'
+                username: '......'
             },
             {
                 name: contact.WhatsApp,
-                url: 'https://wa.me/+919744375687?text=Well...'
+                url: '......'
             }
         ]
     }
