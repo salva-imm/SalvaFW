@@ -1,8 +1,21 @@
-<img align="left" width="480" alt="metrics" src="/github-metrics.svg">
-<img align="right" alt="count" src="https://count.getloli.com/get/@:alensaito1?theme=rule34">
+<img align="left" width="560" alt="metrics" src="/github-metrics.svg">
+<hr>
+<div align="center">
+Connect with Me: <a href="https://t.me/salvador_immortal" target="_blank"><img style="width:25px;" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" alt="telegram" /></a>  <a href="https://www.linkedin.com/in/mehdi-javidan/" target="_blank"><img style="width:25px;" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="linkedin" /></a> <a href="mailto:mehdi73ee@gmail.com" target="_blank"><img style="width:25px;" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="gmail" /></a> 
+</div>
+
+<hr>
+<div align="center">
+|￣￣￣￣￣￣￣￣￣￣￣￣￣￣| <br>
+ Futurist .. <br>
+|＿＿＿＿＿＿＿＿＿＿＿＿＿＿| <br>
+ \ (👀) / <br>
+\ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / <br>
+—— <br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| <br>
+&nbsp;&nbsp;|_ &nbsp; |_ <br>
+</div>
 
 
-<img src="https://discord-readme-badge.vercel.app/api?id=577808661485977620" alt="Discord" align="right" width=320/>
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31tvn6y7tjpbzwvacw3iitologtq&cover_image=true&theme=default&bar_color=00ff00&bar_color_cover=true" alt="spotify" align="right"/>
 
