@@ -16,7 +16,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: AlenVelocity
+          user: salva-imm
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
