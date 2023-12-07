@@ -1593,7 +1593,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>helix-editor/helix</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A post-modern modal text editor.</div>
@@ -1816,7 +1816,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 109k out of 126m users</span>
+                                    <span class="gh">ranked 109k out of 124m users</span>
                                 </div>
                                 <div class="text">Published 127 public repositories</div>
                             </div>
@@ -1999,7 +1999,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Dec 2023, 21:34:20 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Dec 2023, 22:34:06 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
