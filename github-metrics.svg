@@ -1563,7 +1563,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ordinals/ord</span>
-                                        <span>starred 20 days ago</span>
+                                        <span>starred 21 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">👁‍🗨 Rare and exotic sats</div>
@@ -1837,7 +1837,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 103k out of 127m users</span>
+                                    <span class="gh">ranked 103k out of 128m users</span>
                                 </div>
                                 <div class="text">Published 132 public repositories</div>
                             </div>
@@ -2011,7 +2011,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jan 2024, 14:34:08 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Jan 2024, 15:34:02 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
